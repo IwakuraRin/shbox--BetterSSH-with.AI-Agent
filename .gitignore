@@ -1,0 +1,5 @@
+build/bin
+build/shbox_linux/bin
+build/shbox_windows/bin
+node_modules
+frontend/dist
