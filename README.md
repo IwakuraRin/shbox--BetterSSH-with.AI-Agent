@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 ## About
@@ -17,3 +18,6 @@ to this in your browser, and you can call your Go code from devtools.
 ## Building
 
 To build a redistributable, production mode package, use `wails build`.
+=======
+# shbox--BetterSSH-with.AI-Agent
+>>>>>>> c7e176f69927e8fb8f2980d5f705877a88a02569
